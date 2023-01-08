@@ -1,0 +1,16 @@
+Name of the operating system
+Name and model of the laptop
+Kernel version
+Uptime (how long the system has been running)
+Total number of packages (installed by default and other)
+Shell and its version
+Screen resolution
+DE (desktop environment)
+WM (window manager)
+Theme of the window manager
+Current system theme
+System icons
+Terminal
+CPU details
+GPU details
+System memory (RAM)
